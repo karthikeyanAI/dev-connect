@@ -387,12 +387,7 @@ Once merged you can push to heroku as above and your site will rebuild and be up
 
 ---
 
-## App Info
 
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
